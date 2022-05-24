@@ -1,5 +1,11 @@
 # Nahamcon (2022)
 
+## Resume
+
+    - As SaintsSec Team (as entrance exam)
+    - #142 / 4034 teams
+    - 4213 pts
+
 ## Table of Contents
 <!-- MarkdownTOC -->
 
@@ -7,13 +13,14 @@
 - [Misc](#misc)
 - [Forensics](#forensics)
 - [TODO](#todo)
+- [Certificate](#certificate)
 
 <!-- /MarkdownTOC -->
 
 ## Pwn
 
 - [Babiersteps](pwn_babiersteps)
-- [Babysteps](pwn_babyteps)
+- [Babysteps](pwn_babysteps)
 
 ## Misc
 
@@ -35,4 +42,6 @@
     - crash_override
     - quirky
 
+## Certificate
 
+![Certificate of Participation](certificate.png)
