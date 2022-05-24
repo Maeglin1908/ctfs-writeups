@@ -3,6 +3,17 @@
 	You already know what's up 😉
 	warzone.hackrocks.com:7770
 
+<!-- MarkdownTOC -->
+
+- [Pwn it](#pwn-it)
+	- [Leak Libc Address](#leak-libc-address)
+	- [Find the Libc version](#find-the-libc-version)
+	- [Use Libc to get system\('/bin/sh'\)](#use-libc-to-get-systembinsh)
+- [Script](#script)
+- [Flag](#flag)
+
+<!-- /MarkdownTOC -->
+
 ## Pwn it
 
 ![Checksec and linked](screenshots/2022-05-23_16-01-13.png)
