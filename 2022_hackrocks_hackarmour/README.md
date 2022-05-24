@@ -12,7 +12,7 @@
 - Tannhauser (Solved By Marvhus) (TODO)
 - Selfies on Mars (Solved By Marvhus) (TODO)
 - [Sussy](sussy)
-- [Oblivion](oblivion) (TODO)
+- [Oblivion](oblivion)
 - [Eyes Closed](eyes_closed) (TODO)
 - LeChuck is Back (Solved By Marvhus) (TODO)
 - [Morpheus](morpheus)
